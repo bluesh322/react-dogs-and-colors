@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render red color 1`] = `
+<DocumentFragment>
+  <div
+    style="background-color: rgb(255, 0, 0); width: 400px; height: 400px;"
+  >
+    <p>
+      Here's your color
+    </p>
+    <a
+      href="/colors"
+    >
+      Go back
+    </a>
+  </div>
+</DocumentFragment>
+`;
